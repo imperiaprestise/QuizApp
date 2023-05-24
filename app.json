@@ -1,5 +1,9 @@
 {
   "expo": {
+    "splash": {
+      "image": "./assets/quizz.png",
+      "backgroundColor": "#FEF9B0"
+    },
     "name": "NewProject",
     "slug": "NewProject",
     "version": "1.0.0",
