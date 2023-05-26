@@ -11,7 +11,7 @@ const QuizApp = () => {
         <TouchableOpacity 
             style={styles.category}
             onPress={() => navigation.navigate('Playground', {category: 'world-affairs'})}>
-          <Text style={styles.categoryTitle}>World Affairs</Text>
+          <Text style={styles.categoryTitle}>World</Text>
         </TouchableOpacity>
         <TouchableOpacity 
             style={styles.category}
