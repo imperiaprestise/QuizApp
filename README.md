@@ -10,7 +10,7 @@ A simple Quiz App using Firebase and React Native Expo. This quiz include 6 subj
 ## Screenshots
 <div align="center">
     <img src="output_ss/ss_1.jpeg" width="230"/>
-    <img src="output_ss/ss_2.jpeg_" width="230"/>
+    <img src="output_ss/ss_2.jpeg" width="230"/>
 </div>
 <div align="center">
     <img src="output_ss/ss_3.jpeg" width="230"/>
