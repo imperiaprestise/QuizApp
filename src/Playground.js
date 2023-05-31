@@ -174,7 +174,7 @@ const styles = StyleSheet.create({
     backgroundColor:'red'
   },
   submitButton:{
-    backgroundColor: '#3434eb',
+    backgroundColor: '#6A5BE2',
     padding:10,
     marginVertical:10,
     borderRadius:5
@@ -194,7 +194,7 @@ const styles = StyleSheet.create({
     marginVertical:10
   },
   tryAgainButton:{
-    backgroundColor: '#3434eb',
+    backgroundColor: '#6A5BE2',
     padding:10,
     marginVertical:10,
     borderRadius:5,

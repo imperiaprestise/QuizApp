@@ -1,8 +1,13 @@
 {
   "expo": {
     "splash": {
-      "image": "./assets/quizz.png",
-      "backgroundColor": "#000"
+      "image": "./assets/quiz_app.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#6A5BE2"
+    },
+    "androidStatusBar": {
+      "backgroundColor": "#6A5BE2",
+      "translucent": false
     },
     "name": "NewProject",
     "slug": "NewProject",

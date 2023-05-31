@@ -1,4 +1,4 @@
-import { View, Text, StyleSheet, TouchableOpacity } from 'react-native'
+import { View, Text, StyleSheet, TouchableOpacity, StatusBar } from 'react-native'
 import React from 'react'
 import { useNavigation} from '@react-navigation/native'
 
@@ -7,6 +7,10 @@ const QuizApp = () => {
 
   return (
     <View style={styles.container}>
+    <StatusBar
+        backgroundColor="#6A5BE2"
+        barStyle="light-content"
+     />
       <View style={styles.categoryContainer}>
         <TouchableOpacity 
             style={styles.category}
@@ -60,7 +64,7 @@ const styles = StyleSheet.create({
     margin:10,
     borderRadius:10,
     backgroundColor:'#ffffff',
-    shadowColor:'#000000',
+    shadowColor:'#6A5BE2',
     shadowOpacity:0.3,
     shadowRadius:5,
     elevation:5,
